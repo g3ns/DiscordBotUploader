@@ -1,0 +1,10 @@
+config.json
+node_modules/
+*.db
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+

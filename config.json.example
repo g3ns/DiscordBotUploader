@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "upload_folder": "DiscordUploader",
+    "database_file": "file_uploads.db"
+}
+
